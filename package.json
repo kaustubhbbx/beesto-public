@@ -1,0 +1,22 @@
+{
+  "name": "beesto-ai-public-core",
+  "version": "1.0.0",
+  "description": "Public core orchestration logic and auth middleware for Beesto AI",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/beesto-ai-core.git"
+  },
+  "keywords": [
+    "ai-agent",
+    "agent-orchestrator",
+    "vibe-coding",
+    "clerk-auth",
+    "multi-agent"
+  ],
+  "author": "",
+  "license": "MIT"
+}
