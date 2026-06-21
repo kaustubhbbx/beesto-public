@@ -4,6 +4,12 @@
 > **Live Demo:** [beesto.online](https://beesto.online)  
 > **Kaggle Hackathon Submission: AI Agents: Intensive Vibe Coding Capstone Project**
 
+### 🤖 Beesto Core Models & Modes
+Beesto operates in three specialized modes designed for code generation, agent orchestration, and full-workspace vibe coding:
+- **Beesto IDE (`beesto-ide`)**: A fully autonomous workspace agent that handles project blueprinting, writing, patching/editing, and execution of files in real time. It communicates directly with our interactive terminal toolset.
+- **Beesto (`beesto` / `beesto-orchestrator`)**: The default conversational agent with an always-on reasoning engine (`<think>` tags). It implements a multi-model fallback chain (Gemma 4 → Qwen 3 → GPT-OSS → Gemini) to ensure zero-downtime conversation.
+- **Beesto Coder (`beesto-coder` / `beesto-parallel`)**: A code generation and sandboxing engine that supports single-turn or parallel multi-agent generation of React (`.jsx`) and Vanilla JS/CSS applications with real-time UI/UX previews.
+
 ---
 
 ### ⚠️ IMPORTANT: Demo Repository Notice
