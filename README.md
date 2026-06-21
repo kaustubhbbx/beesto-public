@@ -2,6 +2,7 @@
 
 > **Version: Core v6.1.0**  
 > **Live Demo:** [beesto.online](https://beesto.online)  
+> 🎥 **Demo Video:** [Watch on YouTube](https://youtu.be/K9rX2v_0SO8)  
 > **Kaggle Hackathon Submission: AI Agents: Intensive Vibe Coding Capstone Project**
 
 ### 🤖 Beesto Core Models & Modes
